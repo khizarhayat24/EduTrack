@@ -149,14 +149,7 @@ python server.py
 
 ---
 
-## 📸 Screenshots
 
-Add application screenshots here.
-
-```md
-![Dashboard](screenshots/dashboard.png)
-![Topper Hub](screenshots/topperhub.png)
-![Upload Resource](screenshots/upload.png)
 ```
 
 ---
