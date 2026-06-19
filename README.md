@@ -1,28 +1,4 @@
-Bhai pehle wali README **FYP report jaisi lag rahi thi**, GitHub README nahi.
 
-GitHub par jo banda repo open karta hai usko pehle 30 seconds mein yeh samajhna hota hai:
-
-1. Project kya karta hai?
-2. Demo/Screenshots?
-3. Features?
-4. Tech Stack?
-5. Installation?
-6. Future Scope?
-
-Usko 500 lines ka documentation nahi chahiye.
-
-Maine tumhari repo structure dekhi hai:
-
-* React + Vite Frontend
-* Python Backend
-* JWT Auth
-* Dashboard
-* Upload Resource
-* Topper Hub
-* Topper Profiles
-* Resource Detail Pages
-
-Is hisaab se README kuch is style ki honi chahiye:
 
 ---
 
@@ -197,4 +173,3 @@ AI & Machine Learning Enthusiast
 
 ---
 
-Meri suggestion: **screenshots add karo**. GitHub par screenshots README se bhi zyada impact deti hain. Bina screenshots ke project 6/10 lagta hai, screenshots ke saath wahi project 9/10 lagta hai.
